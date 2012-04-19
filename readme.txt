@@ -1,4 +1,4 @@
-===  Klout Badge Wigdet ===
+===  Klout Badge Plugin ===
 
 Contributors: Sujith Kumar
 Donate link: http://techlineinfo.com
